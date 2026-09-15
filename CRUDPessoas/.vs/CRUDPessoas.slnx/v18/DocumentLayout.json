@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rever\\Documents\\github\\PAN_DS43A_2_SEM_26\\CRUDPessoas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02889AA2-8307-56BF-4BB7-84AE7D7FA4B1}|CRUDPessoas\\CRUDPessoas.csproj|c:\\users\\rever\\documents\\github\\pan_ds43a_2_sem_26\\crudpessoas\\crudpessoas\\modelo\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02889AA2-8307-56BF-4BB7-84AE7D7FA4B1}|CRUDPessoas\\CRUDPessoas.csproj|solutionrelative:crudpessoas\\modelo\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02889AA2-8307-56BF-4BB7-84AE7D7FA4B1}|CRUDPessoas\\CRUDPessoas.csproj|c:\\users\\rever\\documents\\github\\pan_ds43a_2_sem_26\\crudpessoas\\crudpessoas\\dal\\pessoadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02889AA2-8307-56BF-4BB7-84AE7D7FA4B1}|CRUDPessoas\\CRUDPessoas.csproj|solutionrelative:crudpessoas\\dal\\pessoadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02889AA2-8307-56BF-4BB7-84AE7D7FA4B1}|CRUDPessoas\\CRUDPessoas.csproj|c:\\users\\rever\\documents\\github\\pan_ds43a_2_sem_26\\crudpessoas\\crudpessoas\\apresentacao\\frmpee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02889AA2-8307-56BF-4BB7-84AE7D7FA4B1}|CRUDPessoas\\CRUDPessoas.csproj|solutionrelative:crudpessoas\\apresentacao\\frmpee.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02889AA2-8307-56BF-4BB7-84AE7D7FA4B1}|CRUDPessoas\\CRUDPessoas.csproj|c:\\users\\rever\\documents\\github\\pan_ds43a_2_sem_26\\crudpessoas\\crudpessoas\\apresentacao\\frmpee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{02889AA2-8307-56BF-4BB7-84AE7D7FA4B1}|CRUDPessoas\\CRUDPessoas.csproj|solutionrelative:crudpessoas\\apresentacao\\frmpee.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02889AA2-8307-56BF-4BB7-84AE7D7FA4B1}|CRUDPessoas\\CRUDPessoas.csproj|c:\\users\\rever\\documents\\github\\pan_ds43a_2_sem_26\\crudpessoas\\crudpessoas\\apresentacao\\frmcadastrar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02889AA2-8307-56BF-4BB7-84AE7D7FA4B1}|CRUDPessoas\\CRUDPessoas.csproj|solutionrelative:crudpessoas\\apresentacao\\frmcadastrar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02889AA2-8307-56BF-4BB7-84AE7D7FA4B1}|CRUDPessoas\\CRUDPessoas.csproj|c:\\users\\rever\\documents\\github\\pan_ds43a_2_sem_26\\crudpessoas\\crudpessoas\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02889AA2-8307-56BF-4BB7-84AE7D7FA4B1}|CRUDPessoas\\CRUDPessoas.csproj|solutionrelative:crudpessoas\\modelo\\controle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02889AA2-8307-56BF-4BB7-84AE7D7FA4B1}|CRUDPessoas\\CRUDPessoas.csproj|c:\\users\\rever\\documents\\github\\pan_ds43a_2_sem_26\\crudpessoas\\crudpessoas\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02889AA2-8307-56BF-4BB7-84AE7D7FA4B1}|CRUDPessoas\\CRUDPessoas.csproj|solutionrelative:crudpessoas\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\rever\\Documents\\github\\PAN_DS43A_2_SEM_26\\CRUDPessoas\\CRUDPessoas\\modelo\\Pessoa.cs",
+              "RelativeDocumentMoniker": "CRUDPessoas\\modelo\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\rever\\Documents\\github\\PAN_DS43A_2_SEM_26\\CRUDPessoas\\CRUDPessoas\\modelo\\Pessoa.cs",
+              "RelativeToolTip": "CRUDPessoas\\modelo\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T13:48:03.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmCadastrar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rever\\Documents\\github\\PAN_DS43A_2_SEM_26\\CRUDPessoas\\CRUDPessoas\\apresentacao\\frmCadastrar.xaml.cs",
+              "RelativeDocumentMoniker": "CRUDPessoas\\apresentacao\\frmCadastrar.xaml.cs",
+              "ToolTip": "C:\\Users\\rever\\Documents\\github\\PAN_DS43A_2_SEM_26\\CRUDPessoas\\CRUDPessoas\\apresentacao\\frmCadastrar.xaml.cs",
+              "RelativeToolTip": "CRUDPessoas\\apresentacao\\frmCadastrar.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T13:21:24.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PessoaDAO.cs",
+              "DocumentMoniker": "C:\\Users\\rever\\Documents\\github\\PAN_DS43A_2_SEM_26\\CRUDPessoas\\CRUDPessoas\\DAL\\PessoaDAO.cs",
+              "RelativeDocumentMoniker": "CRUDPessoas\\DAL\\PessoaDAO.cs",
+              "ToolTip": "C:\\Users\\rever\\Documents\\github\\PAN_DS43A_2_SEM_26\\CRUDPessoas\\CRUDPessoas\\DAL\\PessoaDAO.cs",
+              "RelativeToolTip": "CRUDPessoas\\DAL\\PessoaDAO.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAwJgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T13:14:01.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmPEE.xaml",
+              "DocumentMoniker": "C:\\Users\\rever\\Documents\\github\\PAN_DS43A_2_SEM_26\\CRUDPessoas\\CRUDPessoas\\apresentacao\\frmPEE.xaml",
+              "RelativeDocumentMoniker": "CRUDPessoas\\apresentacao\\frmPEE.xaml",
+              "ToolTip": "C:\\Users\\rever\\Documents\\github\\PAN_DS43A_2_SEM_26\\CRUDPessoas\\CRUDPessoas\\apresentacao\\frmPEE.xaml",
+              "RelativeToolTip": "CRUDPessoas\\apresentacao\\frmPEE.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-19T13:44:12.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmPEE.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\rever\\Documents\\github\\PAN_DS43A_2_SEM_26\\CRUDPessoas\\CRUDPessoas\\apresentacao\\frmPEE.xaml.cs",
+              "RelativeDocumentMoniker": "CRUDPessoas\\apresentacao\\frmPEE.xaml.cs",
+              "ToolTip": "C:\\Users\\rever\\Documents\\github\\PAN_DS43A_2_SEM_26\\CRUDPessoas\\CRUDPessoas\\apresentacao\\frmPEE.xaml.cs",
+              "RelativeToolTip": "CRUDPessoas\\apresentacao\\frmPEE.xaml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswEEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T13:45:13.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Controle.cs",
+              "DocumentMoniker": "C:\\Users\\rever\\Documents\\github\\PAN_DS43A_2_SEM_26\\CRUDPessoas\\CRUDPessoas\\modelo\\Controle.cs",
+              "RelativeDocumentMoniker": "CRUDPessoas\\modelo\\Controle.cs",
+              "ToolTip": "C:\\Users\\rever\\Documents\\github\\PAN_DS43A_2_SEM_26\\CRUDPessoas\\CRUDPessoas\\modelo\\Controle.cs",
+              "RelativeToolTip": "CRUDPessoas\\modelo\\Controle.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T12:21:54.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Validacao.cs",
+              "DocumentMoniker": "C:\\Users\\rever\\Documents\\github\\PAN_DS43A_2_SEM_26\\CRUDPessoas\\CRUDPessoas\\modelo\\Validacao.cs",
+              "RelativeDocumentMoniker": "CRUDPessoas\\modelo\\Validacao.cs",
+              "ToolTip": "C:\\Users\\rever\\Documents\\github\\PAN_DS43A_2_SEM_26\\CRUDPessoas\\CRUDPessoas\\modelo\\Validacao.cs",
+              "RelativeToolTip": "CRUDPessoas\\modelo\\Validacao.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T12:38:49.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
