@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\rever\\Documents\\github\\Programacao_Aplicada_DotNet\\CRUDPessoas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rever\\Documents\\github\\Programacao_Aplicada_DotNet\\CRUDPessoas\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{02889AA2-8307-56BF-4BB7-84AE7D7FA4B1}|CRUDPessoas\\CRUDPessoas.csproj|c:\\users\\rever\\documents\\github\\programacao_aplicada_dotnet\\crudpessoas\\crudpessoas\\modelo\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02889AA2-8307-56BF-4BB7-84AE7D7FA4B1}|CRUDPessoas\\CRUDPessoas.csproj|solutionrelative:crudpessoas\\modelo\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02889AA2-8307-56BF-4BB7-84AE7D7FA4B1}|CRUDPessoas\\CRUDPessoas.csproj|c:\\users\\rever\\documents\\github\\programacao_aplicada_dotnet\\crudpessoas\\crudpessoas\\modelo\\validacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{02889AA2-8307-56BF-4BB7-84AE7D7FA4B1}|CRUDPessoas\\CRUDPessoas.csproj|c:\\users\\rever\\documents\\github\\programacao_aplicada_dotnet\\crudpessoas\\crudpessoas\\apresentacao\\frmcadastrar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02889AA2-8307-56BF-4BB7-84AE7D7FA4B1}|CRUDPessoas\\CRUDPessoas.csproj|solutionrelative:crudpessoas\\apresentacao\\frmcadastrar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02889AA2-8307-56BF-4BB7-84AE7D7FA4B1}|CRUDPessoas\\CRUDPessoas.csproj|c:\\users\\rever\\documents\\github\\programacao_aplicada_dotnet\\crudpessoas\\crudpessoas\\modelo\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02889AA2-8307-56BF-4BB7-84AE7D7FA4B1}|CRUDPessoas\\CRUDPessoas.csproj|solutionrelative:crudpessoas\\modelo\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,19 +43,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\rever\\Documents\\github\\Programacao_Aplicada_DotNet\\CRUDPessoas\\README.md",
-              "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\Users\\rever\\Documents\\github\\Programacao_Aplicada_DotNet\\CRUDPessoas\\README.md",
-              "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2026-09-15T23:55:55.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Pessoa.cs",
               "DocumentMoniker": "C:\\Users\\rever\\Documents\\github\\Programacao_Aplicada_DotNet\\CRUDPessoas\\CRUDPessoas\\modelo\\Pessoa.cs",
               "RelativeDocumentMoniker": "CRUDPessoas\\modelo\\Pessoa.cs",
@@ -67,7 +50,8 @@
               "RelativeToolTip": "CRUDPessoas\\modelo\\Pessoa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T13:48:03.358Z"
+              "WhenOpened": "2026-09-09T13:48:03.358Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -138,8 +122,7 @@
               "RelativeToolTip": "CRUDPessoas\\modelo\\Validacao.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAqwAYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-09T12:38:49.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-09T12:38:49.048Z"
             }
           ]
         }
