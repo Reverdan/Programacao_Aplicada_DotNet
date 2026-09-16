@@ -184,8 +184,4 @@ Como executar
 Considerações finais
 Este projeto é educativo e demonstra separação de responsabilidades entre UI, validação/controle e persistência usando DAO. Para evoluções e produção considere introduzir testes automatizados, abstrações (interfaces para DAOs), injeção de dependência e práticas de segurança para configuração e logs.
 
-Se desejar, posso gerar também:
-- script SQL pronto em arquivo .sql
-- mover a connection string para App.config
-- implementar a pesquisa por nome na UI (btnPesquisarNome_Click)
-- adaptar o DAL para usar interfaces e injeção de dependência
+
